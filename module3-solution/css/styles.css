@@ -1,0 +1,44 @@
+		body{
+			font-size: 16px;
+			font-family: 'Oxygen', sans-serif;;
+			color: black;
+			background-color: white;
+			
+		}
+		#header-nav{
+			background-color: blue;
+			border-radius: 0;
+			border:0;
+		}
+		.navbar-brand{
+			padding-top: 15px;
+			padding-bottom: : 15px;
+		}
+		.navbar-brand h1{
+			font-family: 'Tahoma', serif;
+			color: white;
+			font-size: 1.5em;	
+			font-weight: bold;
+			text-shadow: 1px 1px 1px #222;
+			margin-top: 0;
+			margin-bottom: 0;
+			line-height: .75;
+		}
+		.navbar-brand a:hover, .navbar-brand a:focus{
+			text-decoration: none;
+		}
+		.nav-list{
+			margin-top: 10px;
+		}
+		.nav-list a{
+			color: red;
+			text-align: center;
+		}
+		.nav-list a:hover{
+			background: purple;
+		}
+		.navbar-header button.navbar-toggle, .navbar-header, .icon-bar{
+			border: 1px solid meroon;
+		}
+
+
